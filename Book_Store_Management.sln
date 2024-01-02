@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Book_Store_Management", "Book_Store_Management\Book_Store_Management.csproj", "{E9D2B9B7-F9BB-4894-BEA2-B66FDAEEE435}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{20EE2A7F-0231-4F22-92B0-551057D7BF9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{E4800AC5-69FC-44EF-8D1D-93C4403AFC55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9D2B9B7-F9BB-4894-BEA2-B66FDAEEE435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9D2B9B7-F9BB-4894-BEA2-B66FDAEEE435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9D2B9B7-F9BB-4894-BEA2-B66FDAEEE435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9D2B9B7-F9BB-4894-BEA2-B66FDAEEE435}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20EE2A7F-0231-4F22-92B0-551057D7BF9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20EE2A7F-0231-4F22-92B0-551057D7BF9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20EE2A7F-0231-4F22-92B0-551057D7BF9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20EE2A7F-0231-4F22-92B0-551057D7BF9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4800AC5-69FC-44EF-8D1D-93C4403AFC55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4800AC5-69FC-44EF-8D1D-93C4403AFC55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4800AC5-69FC-44EF-8D1D-93C4403AFC55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4800AC5-69FC-44EF-8D1D-93C4403AFC55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBFC40C6-0392-4B95-9ECB-BDF01EE7FDE3}
+	EndGlobalSection
+EndGlobal
